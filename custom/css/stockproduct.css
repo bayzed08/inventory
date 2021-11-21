@@ -1,0 +1,54 @@
+tr:hover {
+    background-color: rgba(246, 255, 250, 0.863);
+}
+
+tr>td:hover {
+    color: blue;
+    font-weight: bold;
+    /* background-color:rgb(240, 240, 240); */
+
+}
+table tr>td{
+    border: 1.5px solid rgb(165, 159, 159);
+    padding-left: 8px;
+    text-align:left;
+    font-size: 12px;
+}
+
+.modelSearch{
+    padding:3px;
+    margin: 3px;
+    border-radius: 5px;
+    width:40%;
+    box-shadow: 0 2px 2px rgba(78, 78, 78, 0.19), 0 3px 3px rgba(129, 127, 127, 0.23);
+}
+
+.inputlabel {
+    padding:4px;
+    padding-left: 20px;
+    text-align:right;
+  }
+
+.stockheadtitle {
+    text-align: center;
+    color: #0070d0;
+    cursor: pointer;
+}
+
+.stockBrandbody {
+    /* display: none; */
+    background-color: #ccd0d4;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.stockbody {
+    display: none;
+    height: 500px;
+    overflow: scroll;
+    background-color: #ccd0d4;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}

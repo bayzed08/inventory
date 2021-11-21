@@ -1,0 +1,35 @@
+tr>td:hover {
+    color: blue;
+    font-weight: bold;
+}
+
+table tr>td{
+    border: 1.5px solid rgb(165, 159, 159);
+    padding-left: 2px;
+    text-align:left;
+    font-size: 12px;
+}
+.fullbody{
+    background-color: #d4d5d6;
+}
+
+.StockEntry{
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+}
+
+.StockEntryHead{
+    color: blue;
+    text-align: center;
+    cursor: pointer;
+}
+
+.stockList{
+
+    height: 500px;
+    overflow: scroll;
+    background-color: #ccd0d4;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}

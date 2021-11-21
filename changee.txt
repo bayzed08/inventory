@@ -1,0 +1,24 @@
+change
+
+***acknowkwldge.js 
+1. stockproduct.php
+2. stockproduct.js  custom/js
+3. stockproduct.css custom/css
+4. resproductname.php
+4.1 resproductname_ack.php
+4.2 resBrandName.php
+5. stockproduct_brand_Insert.php
+6. stockproduct_Model_Insert.php
+7. stockEntry_InsertDB.php
+
+*ack_search_modelname.php
+*ack_search_Productname.php
+*acknowlwdgement.php
+
+DB table : stockproductbrand
+           stockproductmodel
+	   stockentry
+
+1. stockEntry.js
+2. stockEntry.css
+3. stockEntry.php
